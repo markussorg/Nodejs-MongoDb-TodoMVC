@@ -14,3 +14,5 @@ Simple Todo Application based on <a href="https://github.com/addyosmani/todomvc"
 ###More to do
 1. Add user accounts, personalize todo lists
 2. Make the list sortable
+
+###TEST
