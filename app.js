@@ -24,6 +24,8 @@ var connectWithRetry = function() {
   });
 };
 
+throw error;
+
 connectWithRetry();
 
 mongoose.connection.on('open', function() {
